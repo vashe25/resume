@@ -3,7 +3,7 @@
 
 📍 Ko Pha Ngan🏝, Thailand🇹🇭
 
-[Telegram](https://t.me/vashe) | [E-mail](va.she25@gmail.com) | [Facebook](https://www.facebook.com/vashe25)
+[Telegram](https://t.me/vashe) | [E-mail](mailto:va.she25@gmail.com) | [Facebook](https://www.facebook.com/vashe25) | [Upwork](https://www.upwork.com/freelancers/~01e15f788d81fd16f7)
 
 5+ years in commercial dev as php developer.
 B1 Intermediate English level.
