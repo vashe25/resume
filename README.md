@@ -26,6 +26,7 @@ B1 Intermediate English level.
 - HTML/CSS
 - Golang
 - Git (Github, Bitbucket, GitLab)
+- Docker
 - Nginx
 
 ### Agile / Project Management Tools:
